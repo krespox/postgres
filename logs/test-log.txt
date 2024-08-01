@@ -1,0 +1,61 @@
+2024-06-13 13:35:04 - testIsValid (valid person): true
+2024-06-13 13:35:04 - testIsValid (same name): true
+2024-06-13 13:36:00 - testGetPersonById: true
+2024-06-13 13:36:00 - testGetAllPersons: true
+2024-06-13 13:36:01 - testUpdatePerson: true
+2024-06-13 13:36:01 - testDeletePerson: true
+2024-06-13 13:36:01 - testAddPerson: true
+2024-06-13 13:36:01 - testIsValid (valid person): true
+2024-06-13 13:36:01 - testIsValid (same name): true
+2024-06-13 13:36:01 - testGetPersonById: true
+2024-06-13 13:36:01 - testGetAllPersons: true
+2024-06-13 13:36:01 - testUpdatePersonById: true
+2024-06-13 13:36:01 - testUpdatePersonByIdNotFound: true
+2024-06-13 13:36:01 - testDeletePerson: executed
+2024-06-13 13:36:01 - testAddPerson: true
+2024-06-13 13:36:01 - testGetPersonByIdNotFound: true
+2024-06-13 14:04:48 - testIsValid (valid person): true
+2024-06-13 14:04:48 - testIsValid (same name): true
+2024-06-13 14:06:49 - testIsValid (valid person): true
+2024-06-13 14:06:49 - testIsValid (same name): true
+2024-06-13 14:06:49 - testIsValid (with space): true
+2024-06-13 14:07:56 - testIsValid (valid person): true
+2024-06-13 14:07:56 - testIsValid (same name): true
+2024-06-13 14:07:56 - testIsValid (with space): true
+2024-06-13 14:07:56 - testIsValid (lower case): true
+2024-06-13 14:08:24 - testIsValid (valid person): true
+2024-06-13 14:08:24 - testIsValid (same name): true
+2024-06-13 14:08:24 - testIsValid (with space): true
+2024-06-13 14:08:24 - testIsValid (lower case): true
+2024-06-20 09:54:12 - testGetPersonById: true
+2024-06-20 09:54:13 - testGetAllPersons: true
+2024-06-20 09:54:13 - testUpdatePerson: true
+2024-06-20 09:54:13 - testDeletePerson: true
+2024-06-20 09:54:13 - testAddPerson: true
+2024-06-20 09:54:13 - testIsValid (valid person): true
+2024-06-20 09:54:13 - testIsValid (same name): true
+2024-06-20 09:54:13 - testIsValid (with space): true
+2024-06-20 09:54:13 - testIsValid (lower case): true
+2024-06-20 09:54:13 - testGetPersonById: true
+2024-06-20 09:54:13 - testGetAllPersons: true
+2024-06-20 09:54:13 - testUpdatePersonById: true
+2024-06-20 09:54:13 - testUpdatePersonByIdNotFound: true
+2024-06-20 09:54:13 - testDeletePerson: executed
+2024-06-20 09:54:13 - testAddPerson: true
+2024-06-20 09:54:13 - testGetPersonByIdNotFound: true
+2024-06-20 09:56:27 - testGetPersonById: true
+2024-06-20 09:56:27 - testGetAllPersons: true
+2024-06-20 09:56:27 - testUpdatePerson: true
+2024-06-20 09:56:27 - testDeletePerson: true
+2024-06-20 09:56:27 - testAddPerson: true
+2024-06-20 09:56:27 - testIsValid (valid person): true
+2024-06-20 09:56:27 - testIsValid (same name): true
+2024-06-20 09:56:27 - testIsValid (with space): true
+2024-06-20 09:56:27 - testIsValid (lower case): true
+2024-06-20 09:56:28 - testGetPersonById: true
+2024-06-20 09:56:28 - testGetAllPersons: true
+2024-06-20 09:56:28 - testUpdatePersonById: true
+2024-06-20 09:56:28 - testUpdatePersonByIdNotFound: true
+2024-06-20 09:56:28 - testDeletePerson: executed
+2024-06-20 09:56:28 - testAddPerson: true
+2024-06-20 09:56:28 - testGetPersonByIdNotFound: true
