@@ -82,8 +82,12 @@
 			<artifactId>tomcat-embed-el</artifactId>
 			<version>10.1.19</version>
 		</dependency>
+					<!-- Liquibase-->
+		<dependency>
+			<groupId>org.liquibase</groupId>
+			<artifactId>liquibase-core</artifactId>
+		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
