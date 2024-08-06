@@ -1,11 +1,11 @@
-2024-06-13 13:35:04 - testIsValid (valid person): true
+2024-06-13 13:35:04 - testIsValid (valid user): true
 2024-06-13 13:35:04 - testIsValid (same name): true
 2024-06-13 13:36:00 - testGetPersonById: true
 2024-06-13 13:36:00 - testGetAllPersons: true
 2024-06-13 13:36:01 - testUpdatePerson: true
 2024-06-13 13:36:01 - testDeletePerson: true
 2024-06-13 13:36:01 - testAddPerson: true
-2024-06-13 13:36:01 - testIsValid (valid person): true
+2024-06-13 13:36:01 - testIsValid (valid user): true
 2024-06-13 13:36:01 - testIsValid (same name): true
 2024-06-13 13:36:01 - testGetPersonById: true
 2024-06-13 13:36:01 - testGetAllPersons: true
@@ -14,16 +14,16 @@
 2024-06-13 13:36:01 - testDeletePerson: executed
 2024-06-13 13:36:01 - testAddPerson: true
 2024-06-13 13:36:01 - testGetPersonByIdNotFound: true
-2024-06-13 14:04:48 - testIsValid (valid person): true
+2024-06-13 14:04:48 - testIsValid (valid user): true
 2024-06-13 14:04:48 - testIsValid (same name): true
-2024-06-13 14:06:49 - testIsValid (valid person): true
+2024-06-13 14:06:49 - testIsValid (valid user): true
 2024-06-13 14:06:49 - testIsValid (same name): true
 2024-06-13 14:06:49 - testIsValid (with space): true
-2024-06-13 14:07:56 - testIsValid (valid person): true
+2024-06-13 14:07:56 - testIsValid (valid user): true
 2024-06-13 14:07:56 - testIsValid (same name): true
 2024-06-13 14:07:56 - testIsValid (with space): true
 2024-06-13 14:07:56 - testIsValid (lower case): true
-2024-06-13 14:08:24 - testIsValid (valid person): true
+2024-06-13 14:08:24 - testIsValid (valid user): true
 2024-06-13 14:08:24 - testIsValid (same name): true
 2024-06-13 14:08:24 - testIsValid (with space): true
 2024-06-13 14:08:24 - testIsValid (lower case): true
@@ -32,7 +32,7 @@
 2024-06-20 09:54:13 - testUpdatePerson: true
 2024-06-20 09:54:13 - testDeletePerson: true
 2024-06-20 09:54:13 - testAddPerson: true
-2024-06-20 09:54:13 - testIsValid (valid person): true
+2024-06-20 09:54:13 - testIsValid (valid user): true
 2024-06-20 09:54:13 - testIsValid (same name): true
 2024-06-20 09:54:13 - testIsValid (with space): true
 2024-06-20 09:54:13 - testIsValid (lower case): true
@@ -48,7 +48,7 @@
 2024-06-20 09:56:27 - testUpdatePerson: true
 2024-06-20 09:56:27 - testDeletePerson: true
 2024-06-20 09:56:27 - testAddPerson: true
-2024-06-20 09:56:27 - testIsValid (valid person): true
+2024-06-20 09:56:27 - testIsValid (valid user): true
 2024-06-20 09:56:27 - testIsValid (same name): true
 2024-06-20 09:56:27 - testIsValid (with space): true
 2024-06-20 09:56:27 - testIsValid (lower case): true
@@ -59,3 +59,33 @@
 2024-06-20 09:56:28 - testDeletePerson: executed
 2024-06-20 09:56:28 - testAddPerson: true
 2024-06-20 09:56:28 - testGetPersonByIdNotFound: true
+2024-08-06 09:31:08 - testAdd: true
+2024-08-06 09:31:08 - testGetById: true
+2024-08-06 09:31:08 - testDelete: true
+2024-08-06 09:31:08 - testGetAll: true
+2024-08-06 09:31:08 - testUpdate: true
+2024-08-06 09:31:08 - testIsValid (valid person): true
+2024-08-06 09:31:08 - testIsValid (same name): true
+2024-08-06 09:31:08 - testIsValid (with space): true
+2024-08-06 09:31:08 - testIsValid (lower case): true
+2024-08-06 09:31:09 - testGetPersonByIdNotFound: true
+2024-08-06 09:31:09 - testAdduser: true
+2024-08-06 09:31:09 - testUpdatePersonById: true
+2024-08-06 09:31:09 - testGetPersonById: true
+2024-08-06 09:31:09 - testUpdatePersonByIdNotFound: true
+2024-08-06 09:31:09 - testDeletePerson: executed
+2024-08-06 09:31:09 - testGetAlluser true
+2024-08-06 09:32:54 - testGetById: true
+2024-08-06 09:32:55 - testDelete: true
+2024-08-06 09:32:55 - testGetAll: true
+2024-08-06 09:32:55 - testIsValid (valid person): true
+2024-08-06 09:32:55 - testIsValid (same name): true
+2024-08-06 09:32:55 - testIsValid (with space): true
+2024-08-06 09:32:55 - testIsValid (lower case): true
+2024-08-06 09:32:55 - testGetPersonByIdNotFound: true
+2024-08-06 09:32:55 - testAdduser: true
+2024-08-06 09:32:56 - testUpdatePersonById: true
+2024-08-06 09:32:56 - testGetPersonById: true
+2024-08-06 09:32:56 - testUpdatePersonByIdNotFound: true
+2024-08-06 09:32:56 - testDeletePerson: executed
+2024-08-06 09:32:56 - testGetAlluser true
