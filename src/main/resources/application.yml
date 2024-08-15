@@ -1,0 +1,33 @@
+#server.port=9090
+#
+#spring.datasource.url = jdbc:postgresql://localhost:5432/postSQL
+#spring.datasource.username = kk
+#spring.datasource.password = kk
+#spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgresSQLDialect
+#spring.jpa.hibernate.ddl-auto = update
+#
+#node-red.url=http://localhost:1880
+#node-red.suffix=_suffix
+
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/postSQL
+        username: postgres
+        password: postgres
+
+jpa:
+    properties:
+        hibernate.dialect: org.hibernate.dialect.PostgresSQLDialect
+        hibernate:
+            ddl-auto: update
+
+liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.yml
+
+node-red:
+    ulr: http://localhost:1880
+    suffix: _suffix
+
+
+
+

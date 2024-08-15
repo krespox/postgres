@@ -1,12 +1,12 @@
 package com.postgres.model;
 
-public class PersonValidator {
+public class UserValidator {
 
-    public static boolean isValid(Person person) {
-        if (person == null) return false;
+    public static boolean isValid(User user) {
+        if (user == null) return false;
 
-        String firstName = person.getFirstName();
-        String lastName = person.getLastName();
+        String firstName = user.getFirstName();
+        String lastName = user.getLastName();
 
         boolean isValidFirstName = firstName.matches("^[A-Z][a-z]*$");
         boolean isValidLastName = lastName.matches("^[A-Z][a-z]*$");
